@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(94, 139, 83);
+}
+
+.card{
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+#btn-next{
+    float: right;
+}
+
+#btn-prev{
+    float: right;
+    margin-right: 10px;
+}
